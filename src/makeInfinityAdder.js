@@ -22,4 +22,4 @@ function makeAdder() {
   };
 }
 
-module.exports = makeInfinityAdder;
+module.exports = makeAdder;
